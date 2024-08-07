@@ -1,0 +1,26 @@
+{
+  "name": "randomessages",
+  "version": "1.0.0",
+  "description": "randomessages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrcalejandro/random--msg.git"
+  },
+  "author": "manuel99 <nomercy-1999@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrcalejandro/random--msg/issues"
+  },
+  "homepage": "https://github.com/mrcalejandro/random--msg#readme",
+  "bin": {
+    "randomessages": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
